@@ -162,6 +162,7 @@ html, body {
   border: 2px solid var(--pink-mid);
   position: fixed; /* so it can move freely */
   transition: none;
+   z-index: 9999;
 }
 
 .tease-msg {
